@@ -18,3 +18,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: The world’s quietest room is located at Microsoft's headquarters in Washington state.
 
+[![Sweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=swetshaw)](https://github.com/anuraghazra/github-readme-stats)
