@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=swetshaw&style=plastic)
+![](https://komarev.com/ghpvc/?username=swetshaw&style=plastic&color=blueviolet)
 
 ### नमस्ते (Namaste) 🙏
 
